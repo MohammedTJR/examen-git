@@ -1,0 +1,1 @@
+Aquesta és la branca principal del repositori de l’examen de Git
