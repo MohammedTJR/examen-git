@@ -1,1 +1,2 @@
-Aquesta és la branca principal del repositori de l’examen de Git
+Aquesta és la branca principal del repositori de l’examen de Git.
+S'ha afegit una nova funció per calcular la suma de dos números.
